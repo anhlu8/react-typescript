@@ -19,3 +19,4 @@ Install node and yarn or npm; run either `npm start` or `yarn start` to run th a
 * superagent
 
 ### Output:
+![Screenshot](react-typescript/Screen Shot 2018-10-22 at 10.23.36 AM.png)
